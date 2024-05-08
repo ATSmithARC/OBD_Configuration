@@ -1,0 +1,2 @@
+# OBD_Configuration
+Configuration for OpenBuildingDesigner
